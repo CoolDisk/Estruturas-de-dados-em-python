@@ -120,17 +120,17 @@ stack.fill(5, 7);
 # printa o último valor da lista
 print(stack.peek());
 
-# remove os últimos três elementos da lista
+# remove os últimos três elementos da pilha
 for _ in range(0, 3):
 	stack.pop();
 
-# adiciona o elemento 6 para a lista
+# adiciona o elemento 6 para a pilha
 stack.push(6);
 
 # printa o topo
 print(stack.peek());
 
-# remove os últimos 2 elementos da lista
+# remove os últimos 2 elementos da pilha
 for _ in range(0, 1):
 	stack.pop();
 
