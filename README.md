@@ -18,3 +18,9 @@ Este repositório conterá códigos sobre as seguintes estruturas:
 - Árvores binárias
 
 - Árvores binárias de busca
+
+<style>
+ strong {
+    color: blue; 
+ }
+</style>
